@@ -1,7 +1,0 @@
-com/example/library_bottom2/BuildConfig.java
- com.example.library_bottom2.BuildConfig
-com/example/library_bottom2/BottomView.java
- com.example.library_bottom2.BottomView
- com.example.library_bottom2.BottomView$OnItemClickListener
-com/example/library_bottom2/BottomItem.java
- com.example.library_bottom2.BottomItem

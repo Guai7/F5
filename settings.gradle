@@ -1,2 +1,3 @@
 rootProject.name = "F5"
 include ':app'
+include ':library-bottom'
